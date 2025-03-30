@@ -2,9 +2,9 @@
 <img src="https://github.com/user-attachments/assets/f4db684e-8049-4fbb-8b06-4c1f04cb3aa3">
 <br/>
   
-<h2>
+<h3>
 a group of <u>passionate</u> developers building more <i>open</i>, <i>performant</i>, and <i>scalable</i> <b>cybersecurity tooling</b>      
-</h2>
+</h3>
 </div>
 
 <br/>
